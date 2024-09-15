@@ -1,0 +1,5 @@
+﻿  AES(2).c
+  aes.c
+C:\Users\Administrator\Desktop\MD\19.Aes\TinyAes\TinyAes\AES(2).c(51,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating Code...
+  TinyAes.vcxproj -> C:\Users\Administrator\Desktop\MD\19.Aes\TinyAes\x64\Debug\TinyAes.exe
